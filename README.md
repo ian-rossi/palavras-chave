@@ -1,1 +1,204 @@
-# palavras-chave
+Since 2021 impacting millions of lifes, with strong experience in:
+
+- Talent Experience
+- Time Tracking
+- HRIS
+- ERP
+
+In addition to specific experiences on critical demands with:
+
+- Digital Hire
+- Agribusiness
+- Analytics
+- File Storage
+- Authentication
+- Authorization
+- Digital Signature
+- Electronic Signature
+- Billing
+- BPM
+- BPO
+- Career & Succession
+- Service Catalog
+- CMDB
+- Access Control
+- CRM
+- Customization
+- Personnel Department
+- D&I
+- ECM
+- Feature Toggle
+- FinTech
+- Payroll
+- GED
+- Application Management
+- License Management
+- Tenant Management
+- Users Management
+- Performance Management
+- HCM
+- HRMS
+- Internationalization
+- GDPR
+- Localization
+- Logistics
+- People Analytics
+- Personalization
+- Organizational Climate
+- Recruiting
+- CSR (Corporate Social Network)
+- Legal Register
+- Remuneration
+- Report
+- HR
+- Talent Acquisition
+- TMS
+- WMS
+- YMS
+
+Actually working on Architecture and Platform department, known by some as Engeneering, on Developer Experience squad, along with DevOps, DevSecOps, SRE, Research, UX and product squads, providing knowledge, tools and processes, resulting in cost optimizations, quality and productivity increase.
+
+Stack:
+
+- Fundamentals
+-- Onion Architecture
+-- Hexagonal Architecture
+-- Clean Architecture
+-- BDD
+-- BFF (Backend For Frontend)
+-- Clean Code
+-- DDD
+-- Given-When-Then
+-- Micro Front-end
+-- AAA Pattern
+-- CQRS Pattern
+-- SAGA Pattern
+-- Design Patterns
+-- Rendering Patterns
+--- CSR
+--- SSR
+--- SSG
+-- Page Object
+-- FIRST Principles
+-- SOLID
+-- TDD
+- Tools
+-- Analytics
+--- Google Analytics
+-- Execution environment
+--- Node.js
+-- Load balancing
+--- Kong
+--- Nginx
+-- Databases
+--- NoSQL
+---- Elastic Search
+---- MongoDB
+---- Redis
+--- SQL
+---- Oracle
+---- PostgreSQL
+---- SQL Server
+-- CI/CD
+--- Argo CD
+--- GitLab CI
+--- Jenkins
+-- Log collector
+--- Fluentd
+-- Frameworks/Libs
+--- Angular
+---- Angular Material
+---- Jasmine
+---- Karma
+---- PrimeNG
+---- RxJS
+--- Apache JMeter
+--- Backstage (Spotify)
+--- CodeceptJS
+--- Cypress
+--- D3.js
+--- Eclipse Xtext
+---- ANTLR
+--- Express.js
+--- Jest
+--- OSGi Framework
+--- Playwright
+--- React.js
+---- Material UI
+---- Redux
+--- Spring Framework
+---- Spring Batch
+---- Spring Boot
+---- Spring Data JPA
+---- Spring Data Redis
+---- Spring Security
+---- Spring TestContext Framework
+----- REST Assured
+-- Frontend
+--- CSS
+--- HTML
+--- SASS
+--- SCSS
+-- Repository Manager
+--- GitHub
+--- GitLab
+--- JFrog Artifactory
+--- npm Registry
+--- PyPI
+--- Sonatype Nexus
+-- Package Manager
+--- apk
+--- apt
+--- Maven
+---- Eclipse Tycho
+--- OSGi Bundle
+--- npm
+--- pip
+-- Jira
+-- Programming Languages
+--- Bash Scripting
+--- Eclipse Xtend
+--- Java
+--- JavaScript
+--- Python
+--- TypeScript
+-- Messaging
+--- RabbitMQ
+-- Monitoring
+--- Prometheus
+-- Observability
+--- Grafana
+-- ODM
+--- Mongoose
+-- ORM
+--- Hibernate
+--- Sequelize
+-- Resource Recommender
+--- Robusta KRR
+-- Cloud Platform
+--- AWS
+-- SAST
+--- SonarQube
+-- Vulnerability scanner
+--- Trivy
+-- Template engines
+--- Apache Velocity
+--- Mustache
+--- Handlerbars
+-- VCS
+--- Git
+-- Virtualization
+--- Docker
+---- Docker Compose
+--- K8S (Kubernetes)
+-- Data visualization
+--- Kibana
+---- Kibana APM
+-- UX
+--- Figma
+- Processes
+-- ISO 27001
+-- SLDC
+--- Agile
+---- Kanbam
+---- Scrum
