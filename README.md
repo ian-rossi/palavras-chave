@@ -1,5 +1,5 @@
-https://teams.microsoft.com/v2/?meetingjoin=true#/l/meetup-join/19:meeting_Y2M3ZjQyNTEtNDU5ZC00NzlmLWJkZTEtYTMzNGVjZjhiNDJi@thread.v2/0?context=%7B%22Tid%22:%2262c7b02d-a95c-498b-9a7f-6e00acab728d%22,%22Oid%22:%225455d4ce-cc91-4123-9566-c988e19e7475%22%7D&anon=true&deeplinkId=2791faae-7f01-4d08-8acc-51f24a1094ef
 
+https://teams.microsoft.com/l/meetup-join/19:meeting_ZTZmNTA3N2YtYzRhMC00YjQ5LWFmMDMtYWVhNjcwYWNjMjUx@thread.v2/0?context=%7B%22Tid%22:%2262c7b02d-a95c-498b-9a7f-6e00acab728d%22,%22Oid%22:%225455d4ce-cc91-4123-9566-c988e19e7475%22%7D
 Since 2021 impacting millions of lifes, with strong experience in:
 
 - Talent Experience
